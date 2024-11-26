@@ -1,6 +1,4 @@
-## 👋
-
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats-one-bice.vercel.app/api?username=veitsun&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=ijkplayer,flv.js,DanmakuFlameMaster,ailab,MagicaSakura,boxing,overlord,gengine,discovery,GoogleTranslate,Weibo-Picture-Store"
     media="(prefers-color-scheme: dark)" />
@@ -11,6 +9,10 @@
     align="right" />
 </picture>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=veitsun) -->
+<img src="https://github-readme-stats.vercel.app/api?username=veitsun" alt="Anurag's GitHub stats" align="right">
+
+
 Thanks for checking out my Github! 
 
 I'm a student at the University of
@@ -18,7 +20,7 @@ Electronic Science and Technology of China, major in Computer Science.
 
 Recently, my research interests lies in Parallel Computing.
 
-You can find my website at https://veitsun.github.io/ (working).
+You can find my website at https://veitsun.github.io/.
 
 **Playthings:**
 
@@ -33,7 +35,7 @@ You can find my website at https://veitsun.github.io/ (working).
 </div>
 
 <!--
-**dajunHuang/dajunHuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**veitsun/veitsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
