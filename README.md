@@ -19,7 +19,7 @@ Electronic Science and Technology of China, major in Computer Science.
 
 Recently, my research interests lies in Parallel Computing.
 
-You can find my website at https://veitsun.github.io/ (working).
+You can find my website at https://veitsun.github.io/ 
 
 **Playthings:**
 
