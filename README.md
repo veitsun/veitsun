@@ -1,4 +1,3 @@
-## 👋
 
 <picture>
   <source
